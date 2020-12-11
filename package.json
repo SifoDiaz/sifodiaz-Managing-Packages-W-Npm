@@ -9,7 +9,7 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "8.11.2"
+    "node": "10.19.0"
   },
   "repository": {
     "type": "git",
