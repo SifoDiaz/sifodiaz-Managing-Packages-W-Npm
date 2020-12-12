@@ -3,6 +3,7 @@
   "description": "Learning how to add a description to package.json",
   "name": "fcc-learn-npm-package-json",
   "license": "MIT",
+  "version": "1.0",
   "keywords": [
     "SifoDiaz",
     "freecodecamp",
